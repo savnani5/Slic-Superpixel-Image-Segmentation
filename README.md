@@ -16,10 +16,10 @@ We reformulate the Superpixels semantic segmentation problem into an easier prob
 
 ## Pipeline
 
-![pipeline](git_images/algo.PNG)
+![pipeline](git_images/pipeline.PNG)
 
 ---
 
 ## Result
 
-![result](git_images/res.PNG)
+![result](git_images/1.PNG)
