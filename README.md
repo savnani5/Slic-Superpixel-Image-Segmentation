@@ -12,3 +12,14 @@ We reformulate the Superpixels semantic segmentation problem into an easier prob
 
 -During inference, we combine the classifier's predicted labels to form the whole input image's Superpixel segmentation results.
 
+---
+
+## Pipeline
+
+![pipeline](git_images/algo.PNG)
+
+---
+
+## Result
+
+![result](git_images/res.PNG)
